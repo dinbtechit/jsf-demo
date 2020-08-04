@@ -1,0 +1,3 @@
+# Project exclude paths
+/ear-module/target/
+/web-module/target/
