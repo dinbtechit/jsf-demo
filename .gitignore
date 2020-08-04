@@ -1,3 +1,7 @@
 # Project exclude paths
 /ear-module/target/
 /web-module/target/
+/jsf-demo.iml
+/web-module/web-module.iml
+/ear-module/ear-module.iml
+/.idea/
